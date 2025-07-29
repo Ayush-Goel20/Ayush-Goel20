@@ -53,7 +53,6 @@ I'm passionate about crafting intelligent solutions that blend AI, machine learn
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Ayush-Goel20&theme=radical&hide_border=false" alt="GitHub Streak" />
   <br />
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-Goel20&layout=compact&theme=radical&hide=c,java,cpp,shell,html,batchfile,jupyter%20notebook,scss,css)
 
  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-Goel20&layout=compact&theme=radical" alt="Top Languages" /> -->
 </p>
