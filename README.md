@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Ayush Goel
 
 🎓Final Year B.Tech CSE Student | 💡 Machine Learning Enthusiast  
-💼 ML Intern at DRDO | 👨‍💻 Former First Tech Developer at Kyne Tech
+💼 ML Intern at DRDO | 👨‍💻 Former First Tech Developer at KindTech
 
 ---
 
