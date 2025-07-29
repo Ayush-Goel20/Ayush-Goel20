@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Ayush Goel
 
-🎓 B.Tech CSE Student (3rd Year) | 💡 Machine Learning Enthusiast  
+🎓Final Year B.Tech CSE Student | 💡 Machine Learning Enthusiast  
 💼 ML Intern at DRDO | 👨‍💻 Former First Tech Developer at Kyne Tech
 
 ---
