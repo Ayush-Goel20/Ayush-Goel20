@@ -45,6 +45,17 @@ I'm passionate about crafting intelligent solutions that blend AI, machine learn
 > Built using React.js & Node.js with click tracking, shortening, and custom logging middleware.
 
 ---
+<hr></hr>
+
+Profile on Coding Platforms:
+<br></br>
+<p align="center">
+<a href="https://leetcode.com/Mazhar_MIK/" rel="nofollow">Leetcode</a>🏆
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.hackerrank.com/mkhan31995" rel="nofollow">Hackerrank</a>🏆
+<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.interviewbit.com/profile/mazhar_mik" rel="nofollow">InterViewBit</a>🏆 -->
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.hackerearth.com/@mkhan31995" rel="nofollow">Hackerearth</a>🏆
+      </p>
+<hr></hr>
 
 ## 📊 GitHub Stats
 
@@ -56,6 +67,10 @@ I'm passionate about crafting intelligent solutions that blend AI, machine learn
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-Goel20&layout=compact&theme=radical" alt="Top Languages" /> 
 </p>
+
+<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" rel="nofollow"><img src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" alt="Hackerearth" data-canonical-src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" style="max-width:100%;"></a>
+
+<p align="center">Show ❤️ by starring and forking repositories you find good! </p>
 
 ---
 
@@ -69,5 +84,11 @@ I'm passionate about crafting intelligent solutions that blend AI, machine learn
 _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=Ayush-Goel20&style=flat-square)
+
+
+
+                                                      
+
+
 
 
