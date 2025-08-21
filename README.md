@@ -9,7 +9,7 @@
 
 I'm passionate about crafting intelligent solutions that blend AI, machine learning, and real-world utility. Whether it's smart wearables or stock forecasting, I thrive on impactful, hands-on problem solving.
 
-- 🔭 Currently working on **real-time object detection using AI & IoT**
+- 🔭 Currently working on **AI & IoT**
 - 🌱 Learning: **Deep Learning, System Design**
 - 💬 Ask me about: Python, ML projects, React
 - ⚡ Fun fact: I'm a dancer, fitness enthusiast & tech tinkerer!
@@ -32,16 +32,20 @@ I'm passionate about crafting intelligent solutions that blend AI, machine learn
 
 ## 🛠️ Featured Projects
 
-### 🔍 [Vision Glasses for the Visually Impaired](https://github.com/Ayush-Goel20/DRDO-Smart-Vision-Glasses)
+### 🔍 [Vision Glasses for the Visually Impaired]
+Check out my [GitHub Profile](https://github.com/Ayush-Goel20/DRDO-Smart-Vision-Glasses)
 > A DRDO project using machine learning to detect and describe objects to visually impaired users via smart glasses.
 
-### 📈 [Stock Price Prediction](#)
+### 📈 [Stock Price Prediction]
+Check out my [GitHub Profile](https://github.com/Ayush-Goel20/Stock-Prediction-Using-Sentiment_Analysis).
 > Predicted stock prices using LSTM, Prophet, and ETS algorithms. Evaluated with RMSE & MAE.
 
-### 🩺 [Lung Cancer Detection using ML](#)
+### 🩺 [Lung Cancer Detection using ML]
+Check out my [GitHub Profile](https://github.com/Ayush-Goel20/Lung-Cancer-Detection)
 > AI model trained on CT scan data for early detection of lung cancer.
 
-### 🔗 [URL Shortener with Analytics](#)
+### 🔗 [URL Shortener with Analytics]
+Check out my [GitHub Profile](https://github.com/Ayush-Goel20/URL-Shortener-with-Analytics)
 > Built using React.js & Node.js with click tracking, shortening, and custom logging middleware.
 
 ---
