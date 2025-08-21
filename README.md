@@ -32,7 +32,7 @@ I'm passionate about crafting intelligent solutions that blend AI, machine learn
 
 ## 🛠️ Featured Projects
 
-### 🔍 [Vision Glasses for the Visually Impaired](#)
+### 🔍 [Vision Glasses for the Visually Impaired](https://github.com/Ayush-Goel20/DRDO-Smart-Vision-Glasses)
 > A DRDO project using machine learning to detect and describe objects to visually impaired users via smart glasses.
 
 ### 📈 [Stock Price Prediction](#)
